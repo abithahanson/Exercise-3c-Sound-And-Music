@@ -180,10 +180,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: GAME OVER
+  m_text: Game Over
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
-  m_sharedMaterial: {fileID: -3564511840010329722, guid: 10086ae4fca2c9d4f882dca9c977725e, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c07c6e374bde84645a88d6d238b816e2, type: 2}
+  m_sharedMaterial: {fileID: 3202994087241650735, guid: c07c6e374bde84645a88d6d238b816e2, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -207,13 +207,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 312
-  m_fontSizeBase: 312
+  m_fontSize: 100
+  m_fontSizeBase: 100
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 32
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
